@@ -1,4 +1,7 @@
-# Welcome to ET-WDC!
+# WMO Expert Team on World Data Centres
+
+[![World Meteorological Organization](img/wmo_acronym_vertical_sm.jpg)](https://www.wmo.int)
+[![Global Atmospheric Watch](img/gaw_acronym_vertical_sm.jpg)](https://www.wmo.int)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies
 finibus lectus, sit amet egestas quam sagittis quis. Ut id erat sed dui
