@@ -1,0 +1,15 @@
+site_name: WMO Expert Team on World Data Centres (ET-WDC)
+site_description: ET-WDC workspace collaborating on issues of data management, data access, metadata handling and exchange, data archiving and links to WIGOS and the WMO Information System (WIS).
+site_author: WMO Expert Team on World Data Centres (ET-WDC)
+copyright: © 2019 World Meteorological Organization (WMO)
+site_url: https://wmo-cop.github.io/et-wdc
+repo_url: https://github.com/wmo-cop/et-wdc
+
+nav:
+    - Home: index.md
+    - About:
+      - The Team: about/team.md
+    - Meetings: meetings/index.md
+
+plugins:
+    - search
