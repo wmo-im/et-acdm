@@ -8,9 +8,9 @@ repo_url: https://github.com/wmo-cop/et-wdc/
 
 nav:
     - Home: index.md
-    - About:
-      - The Team: about/team.md
+    - The Team: team.md
     - Meetings: meetings/index.md
+    - Terms of Reference: terms-of-reference.md
 
 theme: flatly
 
