@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://wmo-cop.github.io/et-wdc/</loc>
-     <lastmod>2019-02-14</lastmod>
+     <lastmod>2019-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://wmo-cop.github.io/et-wdc/about/team/</loc>
-     <lastmod>2019-02-14</lastmod>
+     <loc>https://wmo-cop.github.io/et-wdc/team/</loc>
+     <lastmod>2019-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://wmo-cop.github.io/et-wdc/meetings/</loc>
-     <lastmod>2019-02-14</lastmod>
+     <lastmod>2019-02-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://wmo-cop.github.io/et-wdc/terms-of-reference/</loc>
+     <lastmod>2019-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
