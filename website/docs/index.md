@@ -14,4 +14,4 @@ data archiving, links to WIGOS and the WMO Information System (WIS), etc.
 
 ## References
 
-[[1]](http://www.wmo.int/pages/prog/arep/cas/documents/CAS_14_E.pdf) WMO (2006), Commission for Atmospheric Sciences : fourteenth session, Cape Town, 16-24 February 2006, abridged final report with resolutions and recommendations (WMO No. 1002), World Meteorological Organization, Geneva, Switzerland, http://www.wmo.int/pages/prog/arep/cas/documents/CAS_14_E.pdf
+[[1]](http://www.wmo.int/pages/prog/arep/cas/documents/CAS_14_E.pdf) WMO (2006), Commission for Atmospheric Sciences : fourteenth session, Cape Town, 16-24 February 2006, abridged final report with resolutions and recommendations (WMO No. 1002), World Meteorological Organization, Geneva, Switzerland, [http://www.wmo.int/pages/prog/arep/cas/documents/CAS_14_E.pdf](http://www.wmo.int/pages/prog/arep/cas/documents/CAS_14_E.pdf)
