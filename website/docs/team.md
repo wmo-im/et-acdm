@@ -16,12 +16,12 @@ Martin Schultz | | IEK-8 Forschungszentrum Jülich |Jülich, Germany
 Ellsworth J. Welton | | NASA Goddard Space Flight Center | Greenbelt, MA, USA
 Vincent-Henri Peuch | | ECMWF | Reading, United Kingdom
 Tom Kralidis | [WOUDC](https://woudc.org) | Environment and Climate Change Canada, Meteorological Service of Canada (ex officio) | Toronto, ON, Canada
-Mikio Ueno | [WDCGG](https://gaw.kishou.go.jp/) | Japan Meteorological Agency | Japan (ex officio)
+Atsuya Kinoshita | [WDCGG](https://gaw.kishou.go.jp/) | Japan Meteorological Agency | Japan (ex officio)
 Anatoly Tsvetkov | [WRDC](http://wrdc.mgo.rssi.ru/) | Main Geophysical Observatory | St. Petersburg, Russia  (ex officio)
-David Gay / Van Bowersox | [WDCPC](http://wdcpc.org/) | Illinois State Water Survey | Champaign, IL, USA (ex officio)
+Van Bowersox | [WDCPC](http://wdcpc.org/) | Illinois State Water Survey | Champaign, IL, USA (ex officio)
 Markus Fiebig | [WDCA](http://www.gaw-wdca.org) | Norwegian Institute for Air Research | Kjeller, Norway (ex officio)
 Kjetil Tørseth | [WDCRG](http://www.gaw-wdcrg.org) | Norwegian Institute for Air Research | Kjeller, Norway (ex officio)
 Julian Meyer-Arnek | [WDC-RSAT](http://wdc.dlr.de) | Deutsche Luft- und Raumfahrt (DLR)| Germany (ex officio)
-Geir Braathen | | WMO | Geneva, Switzerland
+Stoyka Netcheva | | WMO | Geneva, Switzerland
 
 Please also consult the [WMO Country Profile Database](https://www.wmo.int/cpdb/workgroups/view/crm_ET-WDC).

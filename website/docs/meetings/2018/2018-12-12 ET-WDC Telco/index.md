@@ -1,0 +1,3 @@
+# 2018-12-12 ET-WDC Telco
+
+* [ET-WDC-Telecon WDCGG_20181212.pdf](ET-WDC-Telecon WDCGG_20181212.pdf)

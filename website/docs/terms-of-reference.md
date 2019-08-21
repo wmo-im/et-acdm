@@ -1,9 +1,9 @@
-# Terms of Refernece
+# Terms of Reference
 
 (a) Take responsibility for metadata and data management issues in support of
 [and enabling] the scientific and operational objectives of GAW;
 
-(b) Work with the SAGs, WMO expert teamsand partners to establish harmonized
+(b) Work with the SAGs, WMO expert teams and partners to establish harmonized
 data management guidelines, including standardized data formats to allow for
 adequate (seamless) interoperability;
 
