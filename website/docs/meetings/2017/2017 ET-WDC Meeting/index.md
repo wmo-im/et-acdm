@@ -16,5 +16,5 @@
 * [(9.1) ebas_oai_presentation.pdf]((9.1) ebas_oai_presentation.pdf)
 * [(9.3) Kralidis_woudc-technology-infrastructure-ET_WDC-20171004.pdf]((9.3) Kralidis_woudc-technology-infrastructure-ET_WDC-20171004.pdf)
 * [(9.5) GAWSIS-OSCAR_TechStack_ET-WDC-20171002_jkl.pdf]((9.5) GAWSIS-OSCAR_TechStack_ET-WDC-20171002_jkl.pdf)
-* [Meeting Report]()
+* [Meeting Report](List-of-AI.pdf)
 * [group_photo.jpg](group_photo.jpg)
