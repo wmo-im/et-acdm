@@ -1,5 +1,6 @@
 # 2019 ET-WDC Meeting
 last update: 2018-08-22
+[Download document template](Doc_n.m_title_author_vx.y.dotx)
 
 ## Tuesday (09:00 – 17:00)
 #### 0. Welcome, practical arrangements 
@@ -42,5 +43,3 @@ last update: 2018-08-22
 #### 9. Way forward in Atmospheric Chemical Composition Data Management in support of research and services
 
 #### 10. Conclusions & Wrap-up
-
-[Download document template] (Doc_n.m_title_author_vx.y.dotx)
