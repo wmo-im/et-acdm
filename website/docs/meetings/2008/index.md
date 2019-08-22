@@ -1,5 +1,6 @@
 # 2008 Meetings
 
+* [Minutes_ETWDC2008.pdf](Minutes_ETWDC2008.pdf)
 * [doc_1.1_Provisional_Agenda_ETWDC2008.pdf](doc_1.1_Provisional_Agenda_ETWDC2008.pdf)
 * [doc_1.1_Provisional_Agenda_ETWDC2009.pdf](doc_1.1_Provisional_Agenda_ETWDC2009.pdf)
 * [doc_3.2_WIGOS_Doc2-4.pdf](doc_3.2_WIGOS_Doc2-4.pdf)
@@ -17,5 +18,4 @@
 * [item_3.8_EBAS_Torseth.pdf](item_3.8_EBAS_Torseth.pdf)
 * [item_4.x_WIGOS-WIS_Braathen.pdf](item_4.x_WIGOS-WIS_Braathen.pdf)
 * [item_7.1_1st-meeting-of-ad-hoc-CBS-CAS-ET-on-WIGOS_Klausen.pdf](item_7.1_1st-meeting-of-ad-hoc-CBS-CAS-ET-on-WIGOS_Klausen.pdf)
-* [Minutes_ETWDC2008.pdf](Minutes_ETWDC2008.pdf)
 * [wdc-pp.pdf](wdc-pp.pdf)

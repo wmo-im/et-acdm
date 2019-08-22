@@ -15,6 +15,7 @@
 * [Agenda_5_7_3_WDCGG_Reform_Part1.pdf](Agenda_5_7_3_WDCGG_Reform_Part1.pdf)
 * [Agenda_5_7_3_WDCGG_Reform_Part_2.pdf](Agenda_5_7_3_WDCGG_Reform_Part_2.pdf)
 * [Agenda_8_1_Open_Source_Approach_For_Development_Of_WDC_Software.pdf](Agenda_8_1_Open_Source_Approach_For_Development_Of_WDC_Software.pdf)
+* [Minutes_ET-WDC_2014_final-20140310.pdf](Minutes_ET-WDC_2014_final-20140310.pdf)
 * [doc_1.1_Provisional_Agenda_ET-WDC_2014.pdf](doc_1.1_Provisional_Agenda_ET-WDC_2014.pdf)
 * [doc_2_Report_chair_ET-WDC.pdf](doc_2_Report_chair_ET-WDC.pdf)
 * [doc_4.1_Additional_GAW_Station_Designations.pdf](doc_4.1_Additional_GAW_Station_Designations.pdf)
@@ -29,4 +30,3 @@
 * [doc_6.1_QA_QC_Procedureas_at_WDCs.pdf](doc_6.1_QA_QC_Procedureas_at_WDCs.pdf)
 * [doc_6.2_data_flagging_schemes.pdf](doc_6.2_data_flagging_schemes.pdf)
 * [doc_8.1_Open_source_approach_for_development_of_WDC_software.pdf](doc_8.1_Open_source_approach_for_development_of_WDC_software.pdf)
-* [Minutes_ET-WDC_2014_final-20140310.pdf](Minutes_ET-WDC_2014_final-20140310.pdf)

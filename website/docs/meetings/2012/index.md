@@ -4,6 +4,7 @@
 * [2013 Telecon-4](2013 Telecon-4)
 * [2013 Telecon-5](2013 Telecon-5)
 * [2013 Telecon-6](2013 Telecon-6)
+* [Minutes_ET-WDC_2012.pdf](Minutes_ET-WDC_2012.pdf)
 * [doc_1.1_Provisional_Agenda_ET-WDC_2012.pdf](doc_1.1_Provisional_Agenda_ET-WDC_2012.pdf)
 * [doc_1.2_Participants_ET-WDC_2012.pdf](doc_1.2_Participants_ET-WDC_2012.pdf)
 * [doc_2.2_Status_Report_WDCA_ET-WDC_2012.pdf](doc_2.2_Status_Report_WDCA_ET-WDC_2012.pdf)
@@ -21,4 +22,3 @@
 * [doc_7.1_CF_naming_ET-WDC_2012.pdf](doc_7.1_CF_naming_ET-WDC_2012.pdf)
 * [doc_7.2_CF_Mapping_for_GAWSIS-20120403.xlsx](doc_7.2_CF_Mapping_for_GAWSIS-20120403.xlsx)
 * [doc_7.3_CF_Mapping_for_GAW-20120530.xlsx](doc_7.3_CF_Mapping_for_GAW-20120530.xlsx)
-* [Minutes_ET-WDC_2012.pdf](Minutes_ET-WDC_2012.pdf)
