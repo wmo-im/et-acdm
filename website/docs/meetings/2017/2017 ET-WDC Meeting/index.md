@@ -1,5 +1,6 @@
 # 2017 ET-WDC Meeting
 
+#### document plan
 * [Doc_1.1_Provisional_agenda_v0.1.pdf](Doc_1.1_Provisional_agenda_v0.1.pdf)
 * [Doc_2.1_Report_chair_ET-WDC_v0.0.pdf](Doc_2.1_Report_chair_ET-WDC_v0.0.pdf)
 * [(3.1) GAW_ET-WDC_meeting_Kjeller_WDCA_20171002_Fiebig.pdf]((3.1) GAW_ET-WDC_meeting_Kjeller_WDCA_20171002_Fiebig.pdf)
@@ -18,3 +19,7 @@
 * [(9.5) GAWSIS-OSCAR_TechStack_ET-WDC-20171002_jkl.pdf]((9.5) GAWSIS-OSCAR_TechStack_ET-WDC-20171002_jkl.pdf)
 * [Meeting Report](List-of-AI.pdf)
 * [group_photo.jpg](group_photo.jpg)
+
+#### follow-up
+
+* [AI1 & AI2 Comparison of station coordinates](assessment_station_location-20190822.xlsx)
