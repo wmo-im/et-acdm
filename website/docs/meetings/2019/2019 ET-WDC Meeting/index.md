@@ -21,14 +21,14 @@ last update: 2018-08-22
 * doc_4.3_wdcgg (Kinoshita) []()
 * doc_4.4_woudc (Kralidis) []()
 * doc_4.5_wrdc (Tsvetkov) []()
-* doc_4.6_wdcpc (tbd) []()
+* doc_4.6_wdcpc (Lehmann) []()
 * doc_4.7_wdc-rsat (Meyer-Arnek) []()
 
 #### 5. Contributing programs, other data archives
 * doc_5.1_mplnet (Welton) []()
 * doc_5.2_shadoz (Kollonige) []()
 * doc_5.3_gcw (Godøy) []()
-* doc_5.4_other_nasa_data_centres (Chen, Quam) []()
+* doc_5.4_other_nasa_data_centres (Virdi) []()
 * doc_5.5_eanet (Sato) []()
 
 
