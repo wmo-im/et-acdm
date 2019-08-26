@@ -6,11 +6,11 @@ last update: 2018-08-22
 #### 0. Welcome, practical arrangements 
 
 #### 1. Introduction of participants 
-* doc_1.1_participants (Secretariat) [.docx](Doc_1.1_Provisional_list_of_participants_v0.0.docx)
+* doc_1.1_participants (Secretariat) [.docx](Doc_1.1_Provisional_list_of_participants_v0.2.docx)
 
 #### 2. Report by chair ET-WDC, objectives of meeting, approval of agenda 
 * doc_2.1_report_chair_et-wdc (Klausen) [.pdf](Doc_2.1_Report_chair_ET-WDC_v1.0.pdf)
-* doc_2.2_provisional_agenda (Secretariat) [.docx](Doc_2.2_Provisional_agenda_v0.2.docx)
+* doc_2.2_provisional_agenda (Secretariat) [.docx](Doc_2.2_Provisional_agenda_v0.3.docx)
 
 #### 3. Relevant outcomes of WMO Cg-18 and EC-70
 * doc_3.1_outcomes_cg-18_ec-70 (Secretariat) []()
