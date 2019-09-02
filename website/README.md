@@ -48,6 +48,12 @@ git push origin master
 
 ### Updating a page
 
+```bash
+vi content/page.md  # update content
+git commit -m 'update page' content/page.md
+git push origin master
+```
+
 ## Publishing updates to the live site
 
 ```bash
