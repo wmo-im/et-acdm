@@ -8,7 +8,7 @@ of website content and publishing.
 
 ```bash
 # build a virtual Python environment in isolation
-virtualenv wmo-et-wdc-website
+python3 -m venv wmo-et-wdc-website
 cd wmo-et-wdc-website
 # download the website from GitHub
 git clone https://github.com/wmo-cop/et-wdc.git
