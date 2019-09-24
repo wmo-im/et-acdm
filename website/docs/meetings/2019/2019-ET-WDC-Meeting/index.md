@@ -6,7 +6,7 @@ last update: 2018-08-22
 #### 0. Welcome, practical arrangements 
 
 #### 1. Introduction of participants 
-* doc_1.1_participants (Secretariat) [.docx](Doc_1.1_Provisional_list_of_participants_v0.3.docx)
+* doc_1.1_participants (Secretariat) [.docx](Doc_1.1_Provisional_list_of_participants_v0.4.docx)
 
 #### 2. Report by chair ET-WDC, objectives of meeting, approval of agenda 
 * doc_2.1_report_chair_et-wdc (Klausen) [.pdf](Doc_2.1_Report_chair_ET-WDC_v1.0.pdf)
