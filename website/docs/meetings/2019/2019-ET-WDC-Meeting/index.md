@@ -33,6 +33,7 @@ last update: 2018-08-22
 * doc_5.4_other_nasa_data_centres (Virdi) []()
 * doc_5.5_eanet (Sato) []()
 * doc_5.6_ndacc (De Mazière) [] ()
+* doc_5.7_icos-cp (Vermeulen) [.pdf] (Doc_5.7_ICOS-CP_ET-WDC_2019.pdf)
 
 
 ## Wednesday (09:00 – 18:00)
