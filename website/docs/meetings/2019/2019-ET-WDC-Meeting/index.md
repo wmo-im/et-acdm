@@ -21,7 +21,7 @@ last update: 2018-08-22
 * doc_4.1_wdca (Tørseth) [.pdf](DOC_4.1_WDCA_ET-WDC_2019.pdf)
 * doc_4.2_wdcrg (Tørseth) [.pdf](Doc_4.2_WDCRG_ET-WDC_2019.pdf)
 * doc_4.3_wdcgg (Kinoshita) [.pdf](Doc_4.3_WDCGG_ET-WDC_2019.pdf)
-* doc_4.4_woudc (Kralidis) []()
+* doc_4.4_woudc (Kralidis) [.pdf](Doc_4.4_WOUDC_ET-WDC_2019.pdf)
 * doc_4.5_wrdc (Tsvetkov) []()
 * doc_4.6_wdcpc (Lehmann) []()
 * doc_4.7_wdc-rsat (Meyer-Arnek) []()
