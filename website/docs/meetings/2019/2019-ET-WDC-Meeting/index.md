@@ -7,7 +7,7 @@ Hampton, Virginia, USA
 
 [Download document template](Doc_n.m_title_author_vx.y.dotx)
 
-![WMO ET-WDC Group Photo](20191002_175727.jpg "WMO ET-WDC Group Photo")
+![WMO ET-WDC Group Photo](20191002_175659.jpg "WMO ET-WDC Group Photo")
 
 ## Tuesday (09:00 – 17:00)
 #### 0. Welcome, practical arrangements 
