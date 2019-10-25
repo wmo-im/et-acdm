@@ -51,7 +51,7 @@ Hampton, Virginia, USA
 #### 7. Workshop “Connecting the dots”
 
 #### 8. Controlled vocabularies
-* Doc_8.1_atmospheric_composition_variable_standard_names_V10 (Chen) []()
+* Doc_8.1_atmospheric_composition_variable_standard_names_V10 (Chen) [.pdf](Doc_8.1_atmospheric_composition_variable_standard_names.pptx)
 * Doc_8.2_nilu_ebas_wigos-metadata (Tørseth) [.pdf](Doc_8.2_nilu_ebas_wigos-metadata_ET-WDC_2019.pdf)
 
 ## Thursday (09:00 – 16:00)
