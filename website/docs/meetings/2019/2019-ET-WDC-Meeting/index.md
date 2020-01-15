@@ -9,6 +9,8 @@ Hampton, Virginia, USA
 
 ![WMO ET-WDC Group Photo](20191002_175659.jpg "WMO ET-WDC Group Photo")
 
+## Final report [.pdf](2019_meeting_of_WMO_ET-WDC_final_report.pdf)
+
 ## Tuesday (09:00 – 17:00)
 #### 0. Welcome, practical arrangements 
 * Welcome by the Deputy Director for Research and Mission Science in NASA Langley Research Center (Baize)
