@@ -1,6 +1,8 @@
 # 2019 ET-WDC Meeting
-last update: 2018-08-22
+last update: 2020-01-15
 [Download document template](Doc_n.m_title_author_vx.y.dotx)
+
+## Final report [.pdf](2019_meeting_of_WMO_ET-WDC_final_report.pdf)
 
 ## Tuesday (09:00 – 17:00)
 #### 0. Welcome, practical arrangements 
