@@ -40,7 +40,6 @@ with io.open('members.csv') as fh:
     reader = csv.DictReader(fh)
     for row in reader:
         if row['url'] == '':
-            print("FOO")
             url = None
         else:
             url = '<a target="_member" href="{}">{}</a>'.format(row['url'], row['wdc'])

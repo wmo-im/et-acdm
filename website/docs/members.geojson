@@ -13,8 +13,8 @@
             "properties": {
                 "member": "Jörg Klausen",
                 "role": "chair",
-                "wdc": "",
-                "url": null,
+                "wdc": "GAWSIS",
+                "url": "<a target=\"_member\" href=\"https://gawsis.meteoswiss.ch\">GAWSIS</a>",
                 "affiliation": "Federal Office of Meteorology and Climatology MeteoSwiss",
                 "location": "Zürich, Switzerland"
             }
@@ -42,8 +42,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.720805,
-                    59.942575
+                    10.752245,
+                    59.913868
                 ]
             },
             "properties": {
@@ -155,7 +155,7 @@
                 ]
             },
             "properties": {
-                "member": "Van Bowersox",
+                "member": "Chris Lehmann",
                 "role": "Ex-officio",
                 "wdc": "WDCPC",
                 "url": "<a target=\"_member\" href=\"http://wdcpc.org\">WDCPC</a>",
