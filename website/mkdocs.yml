@@ -24,6 +24,7 @@ nav:
       - 2017: meetings/2017/index.md
       - 2018: meetings/2018/index.md
       - 2019: meetings/2019/index.md
+      - 2020: meetings/2020/index.md
     - Terms of Reference: terms-of-reference.md
 
 theme: flatly
