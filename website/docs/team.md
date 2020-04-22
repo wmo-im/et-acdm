@@ -14,6 +14,7 @@ Jörg Klausen (chair) | | Federal Office of Meteorology and Climatology MeteoSwi
 Martin Schultz | | IEK-8 Forschungszentrum Jülich |Jülich, Germany
 Øystein Godøy | | Met Norway | Oslo, Norway
 Ellsworth J. Welton | | NASA Goddard Space Flight Center | Greenbelt, MA, USA
+Gao Chen | | NASA Langley Research Center | Hampton, VA, USA
 Vincent-Henri Peuch | | ECMWF | Reading, United Kingdom
 Tom Kralidis | [WOUDC](https://woudc.org) | Environment and Climate Change Canada, Meteorological Service of Canada (ex officio) | Toronto, ON, Canada
 Atsuya Kinoshita | [WDCGG](https://gaw.kishou.go.jp/) | Japan Meteorological Agency | Japan (ex officio)
