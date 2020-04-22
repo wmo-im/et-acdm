@@ -60,6 +60,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -76.3830686,
+                    37.0862515
+                ]
+            },
+            "properties": {
+                "url": null,
+                "wdc": "",
+                "member": "Gao Chen",
+                "location": "Hampton, VA, USA",
+                "affiliation": "NASA Langley Research Center",
+                "role": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -76.87567,
                     39.00461
                 ]
