@@ -1,4 +1,5 @@
-# WMO Expert Team on World Data Centres (ET-WDC)
+# WMO Expert Team on Atmospheric Composition Data Management (ET-ACDM)
+## formerly: WMO Expert Team on World Data Centres (ET-WDC)
 
 [ET-WDC](https://wmo-cop.github.io/et-wdc) workspace collaborating on issues
 of data management, data access, metadata handling and exchange, data
