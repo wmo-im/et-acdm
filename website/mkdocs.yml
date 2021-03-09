@@ -25,6 +25,7 @@ nav:
       - 2018: meetings/2018/index.md
       - 2019: meetings/2019/index.md
       - 2020: https://github.com/wmo-cop/et-wdc/wiki/Meetings#2020
+      - more...: https://github.com/wmo-cop/et-wdc/wiki/Meetings
     - Terms of Reference: terms-of-reference.md
 
 theme: flatly
