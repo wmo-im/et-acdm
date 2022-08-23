@@ -23,6 +23,6 @@ Chris Lehmann| [WDCPC](http://wdcpc.org/) | Illinois State Water Survey | Champa
 Markus Fiebig | [WDCA](http://www.gaw-wdca.org) | Norwegian Institute for Air Research | Kjeller, Norway (ex officio)
 Kjetil Tørseth | [WDCRG](http://www.gaw-wdcrg.org) | Norwegian Institute for Air Research | Kjeller, Norway (ex officio)
 Julian Meyer-Arnek | [WDC-RSAT](http://wdc.dlr.de) | Deutsche Luft- und Raumfahrt (DLR)| Germany (ex officio)
-Stoyka Netcheva | | WMO | Geneva, Switzerland
+Sergio Moreno Valero | | WMO | Geneva, Switzerland
 
 Please also consult the [WMO Country Profile Database](https://www.wmo.int/cpdb/workgroups/view/crm_ET-WDC).
