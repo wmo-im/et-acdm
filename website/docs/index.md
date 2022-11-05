@@ -7,7 +7,7 @@ The WMO/CAS OPAG-EPAC Expert Team on [World Data Centres](http://www.wmo.int/pag
 (ET-WDC) was formally established in 2006 by CAS-XIV [1] but has a history of
 activities that dates back to the 1990s. The chair of the ET-WDC is a member
 of the OPAG EPAC Scientific Steering Committee (SSC), the steering body of the
-[Global Atmosphere Watch (GAW)](https://www.wmo.int/gaw) programme. This expert
+[Global Atmosphere Watch (GAW)](https://community.wmo.int/activity-areas/gaw) programme. This expert
 team meets every 1-2 years and holds teleconferences 2-4 times per year to
 discuss issues of data management, data access, metadata handling and exchange,
 data archiving, links to WIGOS and the WMO Information System (WIS), etc.
