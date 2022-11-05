@@ -12,12 +12,12 @@
         <link href="../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/docco.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/docco.min.css">
         <link href="../../css/et-wdc.css" rel="stylesheet">
 
         <script src="../../js/jquery-1.10.2.min.js" defer></script>
         <script src="../../js/bootstrap.min.js" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
@@ -170,7 +170,7 @@
 <li><a href="item_3.1_WRDC_Tsvetkov.pdf">item_3.1_WRDC_Tsvetkov.pdf</a></li>
 <li><a href="item_3.2_WDCGG_Suda.pdf">item_3.2_WDCGG_Suda.pdf</a></li>
 <li><a href="item_3.3_WDCA_Wilson.pdf">item_3.3_WDCA_Wilson.pdf</a></li>
-<li><a href="item_3.5_WDC-RSAT_H%C3%B6ppner.pdf">item_3.5_WDC-RSAT_Höppner.pdf</a></li>
+<li><a href="item_3.5_WDC-RSAT_Höppner.pdf">item_3.5_WDC-RSAT_Höppner.pdf</a></li>
 <li><a href="item_3.6_WOUDC_Hare.pdf">item_3.6_WOUDC_Hare.pdf</a></li>
 <li><a href="item_3.7_GAWSIS_Klausen.pdf">item_3.7_GAWSIS_Klausen.pdf</a></li>
 <li><a href="item_3.8_EBAS_Torseth.pdf">item_3.8_EBAS_Torseth.pdf</a></li>
@@ -201,16 +201,13 @@
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             </div>
             <div class="modal-body">
-                <p>
-                    From here you can search these documents. Enter
-                    your search terms below.
-                </p>
+                <p>From here you can search these documents. Enter your search terms below.</p>
                 <form>
                     <div class="form-group">
                         <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
-                <div id="mkdocs-search-results"></div>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
             </div>
             <div class="modal-footer">
             </div>
