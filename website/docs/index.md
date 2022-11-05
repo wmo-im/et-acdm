@@ -1,7 +1,7 @@
 # WMO Expert Team on World Data Centres
 
 [![World Meteorological Organization](img/wmo_acronym_vertical_sm.jpg)](https://www.wmo.int)
-[![Global Atmospheric Watch](img/gaw_acronym_vertical_sm.jpg)](https://www.wmo.int/gaw)
+[![Global Atmospheric Watch](img/gaw_acronym_vertical_sm.jpg)](https://community.wmo.int/activity-areas/gaw)
 
 The WMO/CAS OPAG-EPAC Expert Team on [World Data Centres](http://www.wmo.int/pages/prog/arep/gaw/world_data_ctres.html)
 (ET-WDC) was formally established in 2006 by CAS-XIV [1] but has a history of
