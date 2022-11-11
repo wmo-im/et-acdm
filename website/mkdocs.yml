@@ -1,10 +1,9 @@
-#site_name: WMO Expert Team on World Data Centres (ET-WDC)
-site_name: WMO ET-WDC
+site_name: WMO ET-ACDM
 site_description: ET-WDC workspace collaborating on issues of data management, data access, metadata handling and exchange, data archiving and links to WIGOS and the WMO Information System (WIS).
 site_author: WMO Expert Team on World Data Centres (ET-WDC)
 copyright: Copyright (c) 2006 - 2019 WMO Expert Team on World Data Centres (ET-WDC)
-site_url: https://wmo-cop.github.io/et-wdc
-repo_url: https://github.com/wmo-cop/et-wdc/
+site_url: https://wmo-im.github.io/et-acdm
+repo_url: https://github.com/wmo-im/et-acdm/
 docs_dir: docs
 
 nav:
@@ -24,8 +23,8 @@ nav:
       - 2017: meetings/2017/index.md
       - 2018: meetings/2018/index.md
       - 2019: meetings/2019/index.md
-      - 2020: https://github.com/wmo-cop/et-wdc/wiki/Meetings#2020
-      - more...: https://github.com/wmo-cop/et-wdc/wiki/Meetings
+      - 2020: https://github.com/wmo-im/et-acdm/wiki/Meetings#2020
+      - more...: https://github.com/wmo-im/et-acdm/wiki/Meetings
     - Terms of Reference: terms-of-reference.md
 
 theme: flatly
@@ -33,7 +32,7 @@ theme: flatly
 edit_uri: edit/master/website/docs
 
 extra_css:
-    - css/et-wdc.css
+    - css/et-acdm.css
 
 plugins:
     - search

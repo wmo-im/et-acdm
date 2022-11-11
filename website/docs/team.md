@@ -1,5 +1,5 @@
 # The Team
-<script src="https://embed.github.com/view/geojson/wmo-cop/et-wdc/gh-pages/members.geojson?width=600&height=400"> </script>
+<script src="https://embed.github.com/view/geojson/wmo-im/et-acdm/gh-pages/members.geojson?width=600&height=400"> </script>
 
 The members of the ET-WDC are comprised of experts in data management and/or
 senior scientists dealing with the management of observations in a broad

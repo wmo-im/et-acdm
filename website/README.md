@@ -1,6 +1,6 @@
-# ET-WDC Website
+# ET-ACDM Website
 
-The ET-WDC [website](https://wmo-cop.github.io/et-wdc) is powered
+The ET-ACDM [website](https://wmo-im.github.io/et-acdm) is powered
 by [MkDocs](https://www.mkdocs.org) which facilitates easy management
 of website content and publishing.
 
@@ -8,11 +8,11 @@ of website content and publishing.
 
 ```bash
 # build a virtual Python environment in isolation
-python3 -m venv wmo-et-wdc-website
-cd wmo-et-wdc-website
+python3 -m venv wmo-et-acdm-website
+cd wmo-et-acdm-website
 # download the website from GitHub
-git clone https://github.com/wmo-cop/et-wdc.git
-cd et-wdc/website
+git clone https://github.com/wmo-im/et-acdm.git
+cd et-acdm/website
 # install required dependencies
 pip install -r requirements.txt
 # build the website
