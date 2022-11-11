@@ -1,7 +1,7 @@
 site_name: WMO ET-ACDM
-site_description: ET-WDC workspace collaborating on issues of data management, data access, metadata handling and exchange, data archiving and links to WIGOS and the WMO Information System (WIS).
-site_author: WMO Expert Team on World Data Centres (ET-WDC)
-copyright: Copyright (c) 2006 - 2019 WMO Expert Team on World Data Centres (ET-WDC)
+site_description: ET-ACDM workspace collaborating on issues of data management, data access, metadata handling and exchange, data archiving and links to WIGOS and the WMO Information System (WIS).
+site_author: WMO Expert Team on Atmospheric Composition Data Management (ET-ACDM)
+copyright: Copyright (c) 2006 - 2019 WMO Expert Team on Atmospheric Composition Data Management (ET-ACDM)
 site_url: https://wmo-im.github.io/et-acdm
 repo_url: https://github.com/wmo-im/et-acdm/
 docs_dir: docs

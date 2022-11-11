@@ -1,4 +1,4 @@
-# WMO Expert Team on World Data Centres
+# WMO Expert Team on Atmospheric Composition Data Management
 
 [![World Meteorological Organization](img/wmo_acronym_vertical_sm.jpg)](https://www.wmo.int)
 [![Global Atmospheric Watch](img/gaw_acronym_vertical_sm.jpg)](https://community.wmo.int/activity-areas/gaw)
